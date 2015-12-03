@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+body {
+  background-color: #ffffff;
+
+}
+nav,a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 5px
+}
+
+nav {
+  display: inline-block;
+  list-style-type: none;
+  position: relative;
+}
